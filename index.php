@@ -37,7 +37,7 @@ h1 {text-align: center;}
 	</ul>
 	  
 	<h3> My Favorite Web Sites</h3>
-	<a href="https://test-php-dbu.herokuapp.com/"><mark>A copy of this page running on the internet</mark></a><br>
+	<a href="https://test-php-dbu.herokuapp.com/"> A copy of this page running on the internet</a> - <mark>YAY I was able to publish this page on the internet using the build pipeline and the Heroku hosting platform</mark><br>
 	<a href="https://www.google.com">Google</a><br>	
 	<a href="https://threatpost.com">ThreatPost</a><br>
 	<a href="https://dbu.onelogin.com/portal/">My DBU<a/><br>
